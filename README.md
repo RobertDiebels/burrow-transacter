@@ -31,4 +31,4 @@ The container has the following environment variables.
 
 ## Additional information
 - The container runs until it has sent out the set `AMOUNT_OF_TRANSACTIONS`.
-- The transacter is best used in conjunction with [Kubechain](https://github.com/kubechain/kubechain) a tool that allows you 
+- The transacter is best used in conjunction with [Kubechain](https://github.com/kubechain/kubechain) a tool that allows you to easily run Hyperledger Burrow locally.
