@@ -1,0 +1,1681 @@
+{
+	"genesis_time": "2017-07-28T13:53:09.671Z",
+	"chain_id": "gpe",
+	"params": {
+		"global_permissions": {
+			"base": {
+				"perms": 2302,
+				"set": 16383
+			},
+			"roles": []
+		}
+	},
+	"accounts": [
+		{
+			"address": "EF0CD7917D534C280916132D8AF66E80F3782BB9",
+			"amount": 99999999999999,
+			"name": "gpe_full_000",
+			"permissions": {
+				"base": {
+					"perms": 16383,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "5D1C9FD03B39F6383EDCDABCF4ABAB7481CB9217",
+			"amount": 9999999999,
+			"name": "gpe_validator_000",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "77475C34066AF5601399FC539C7D4D0ED201F015",
+			"amount": 9999999999,
+			"name": "gpe_validator_001",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "21D72C82D769D2A04D0336F84107CF6F94EC090D",
+			"amount": 9999999999,
+			"name": "gpe_validator_002",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "A96848266BA6A1D47375485E45EFA3E28BA4D2B8",
+			"amount": 9999999999,
+			"name": "gpe_validator_003",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "E17B7D406E1D70D65C869338804932EC999EF068",
+			"amount": 9999999999,
+			"name": "gpe_validator_004",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "5883900F15CDB491287C42A14F1B84459CAB7343",
+			"amount": 9999999999,
+			"name": "gpe_validator_005",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "3E886C6BD6BCD0097A7A2D70C93792AEE6DBA83E",
+			"amount": 9999999999,
+			"name": "gpe_validator_006",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "4EF8B905B01934B067BCDF150E9702932C8FF669",
+			"amount": 9999999999,
+			"name": "gpe_validator_007",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "9BEB9FEF00AA5D416F51988A9FFE77F2BBA17376",
+			"amount": 9999999999,
+			"name": "gpe_validator_008",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "A7669753A3EA0FA0039BF6D6E6FE0D25B0468B08",
+			"amount": 9999999999,
+			"name": "gpe_validator_009",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "09352F97036A84A7292305520DB384D93C3F66EF",
+			"amount": 9999999999,
+			"name": "gpe_validator_010",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "9C0204BA99BB3A3887BB2A42DBDE3BCF8BDB23A5",
+			"amount": 9999999999,
+			"name": "gpe_validator_011",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "350F7EA8ADF0D8B00BB1C4515565898EB1519F3E",
+			"amount": 9999999999,
+			"name": "gpe_validator_012",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "E4C3CAE6B2B98FFAF4C4C16C1410E41E8F5DDE94",
+			"amount": 9999999999,
+			"name": "gpe_validator_013",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "E27E538C9EEE2AC7A8E4122B118076A642FB67BD",
+			"amount": 9999999999,
+			"name": "gpe_validator_014",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "2636C376B66F6562EA08342DDE87A0D6404CFF0F",
+			"amount": 9999999999,
+			"name": "gpe_validator_015",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "D13D2BCD972E410E221847AA54886CC90075411C",
+			"amount": 9999999999,
+			"name": "gpe_validator_016",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "43D9314180528FFD901EF076FEEE73C6C57147F2",
+			"amount": 9999999999,
+			"name": "gpe_validator_017",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "6E5F1347D75847134D26A277B446AC6284AC4DB1",
+			"amount": 9999999999,
+			"name": "gpe_validator_018",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "5BE5B5B10CAB23F4AE9529C853D1C52271FD32B3",
+			"amount": 9999999999,
+			"name": "gpe_validator_019",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "76E3693FC954BF67B731F68B0C8A41FF849ED2E3",
+			"amount": 9999999999,
+			"name": "gpe_validator_020",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "F924D5134B4FB83D0416891380EE186BFBBF6F45",
+			"amount": 9999999999,
+			"name": "gpe_validator_021",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "2EC4A5801B2ED79B9D17B2DC19752031A10C8D70",
+			"amount": 9999999999,
+			"name": "gpe_validator_022",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "A221E9292C640C221EC2E25F0613EA761EF67050",
+			"amount": 9999999999,
+			"name": "gpe_validator_023",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "1B3B25E050A082E646A41278B8E2810FB0B0044C",
+			"amount": 9999999999,
+			"name": "gpe_validator_024",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "F1E289B9B9F1BF18F053282D319B29B784968709",
+			"amount": 9999999999,
+			"name": "gpe_validator_025",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "35895C378F7BE9A4B5F989B7FA9EC9C67F34C1D6",
+			"amount": 9999999999,
+			"name": "gpe_validator_026",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "FA1834C75368D8EF3168ABD979A87389F4E50E34",
+			"amount": 9999999999,
+			"name": "gpe_validator_027",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "12DF4545114994F039ADD278A84D028FD9B93E3D",
+			"amount": 9999999999,
+			"name": "gpe_validator_028",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "70A73FA55A85C19C7D892ADC53ABCF7AB8DA26E6",
+			"amount": 9999999999,
+			"name": "gpe_validator_029",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "B3D2E22B6FB621972CF8E59DE5E88A8A4BAFF92B",
+			"amount": 9999999999,
+			"name": "gpe_validator_030",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "9DB21EF90D35C0250BD2E04D8BF7F491D0564500",
+			"amount": 9999999999,
+			"name": "gpe_validator_031",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "E809255CB7B082D98AFFB5E3C5652FFD5C447B95",
+			"amount": 9999999999,
+			"name": "gpe_validator_032",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "2217FDB59412863394C7DC61DF7F0EDE4ADF95FA",
+			"amount": 9999999999,
+			"name": "gpe_validator_033",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "91875B26BE8E7F22D1EC7E41BDF6BEB3777B64A8",
+			"amount": 9999999999,
+			"name": "gpe_validator_034",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "A329EB5CD0BF7E9F4EADACD8A12CB0AA065E8523",
+			"amount": 9999999999,
+			"name": "gpe_validator_035",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "3B77C7BC04B097C6A0C88D56E74A124FC68F68D4",
+			"amount": 9999999999,
+			"name": "gpe_validator_036",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "8F823E61DE3D42E6F64856D3A970F008C81A36C6",
+			"amount": 9999999999,
+			"name": "gpe_validator_037",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "AFDC14A6358E03DC7D7982B8CAD54B2E2A5609BA",
+			"amount": 9999999999,
+			"name": "gpe_validator_038",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "96E2A6C3006D8020A8013238CE549F835C562C1A",
+			"amount": 9999999999,
+			"name": "gpe_validator_039",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "F921D41332B5A9AA8912434C8E178652824C8F4A",
+			"amount": 9999999999,
+			"name": "gpe_validator_040",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "E6FF7CE6E0794A0DFC2AF9862E67B1C2AD1CCB95",
+			"amount": 9999999999,
+			"name": "gpe_validator_041",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "00CCC429498466E488E7D0884CC2C855E36B5BC2",
+			"amount": 9999999999,
+			"name": "gpe_validator_042",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "35BA2C947DD3AE2B48B836F5CA2AF21A5BA5451C",
+			"amount": 9999999999,
+			"name": "gpe_validator_043",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "33534831872D9F3FD36F359F6D0C2E094E4CA4AC",
+			"amount": 9999999999,
+			"name": "gpe_validator_044",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "9E8866569D85400A0EA8C65B14D4D8B2ADFF4AB4",
+			"amount": 9999999999,
+			"name": "gpe_validator_045",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "426776C5F7AF61BBC879EAB4AA19148EF4BD8AAA",
+			"amount": 9999999999,
+			"name": "gpe_validator_046",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "6E20AF8BB4F5A4DAD41D9460CB70ABE139A5142A",
+			"amount": 9999999999,
+			"name": "gpe_validator_047",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "CB7EF1244CCD2EEFAC455DF0FDDEBF9510EE7B1C",
+			"amount": 9999999999,
+			"name": "gpe_validator_048",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "39F84188CECA2EF69F2BBEA8EFC550A78EA1ED44",
+			"amount": 9999999999,
+			"name": "gpe_validator_049",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "FE7565BD89C4B1CD0C98D12569D34F33D95DE8A2",
+			"amount": 9999999999,
+			"name": "gpe_validator_050",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "76ACFE435EEC42F604653179CE6437858EAF004B",
+			"amount": 9999999999,
+			"name": "gpe_validator_051",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "790D06F6861EC2A262701C967EDCBAF36A5F21BB",
+			"amount": 9999999999,
+			"name": "gpe_validator_052",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "5531148052C6876D41C807305B9B8F903908871D",
+			"amount": 9999999999,
+			"name": "gpe_validator_053",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "75E1F923FF97438AC3CE329EC6F85D15CC271C46",
+			"amount": 9999999999,
+			"name": "gpe_validator_054",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "17088DA9DCCE49992005B7FE6E075633DFE726B9",
+			"amount": 9999999999,
+			"name": "gpe_validator_055",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "D5BDD1257B4FF652A6F54385216147939E267F7F",
+			"amount": 9999999999,
+			"name": "gpe_validator_056",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "72D710E8CCB34499EC1E0220FACED2DFC26B4A8E",
+			"amount": 9999999999,
+			"name": "gpe_validator_057",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "D54574A0BA487809B1F3B74B7270B245CEC3BD23",
+			"amount": 9999999999,
+			"name": "gpe_validator_058",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "FCAACE480C5FB77C0EC87CC981CD4CF9F94D3E84",
+			"amount": 9999999999,
+			"name": "gpe_validator_059",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "12E47513CC2318FDD2DF806B0FBF013F1A3E4500",
+			"amount": 9999999999,
+			"name": "gpe_validator_060",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "EC4C2EC0AB1FCD3F60A9677FA68EC5982D6EFB60",
+			"amount": 9999999999,
+			"name": "gpe_validator_061",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		},
+		{
+			"address": "66B3F0A52A3F66A54D54CAFC8AFFBD9E5BDC813C",
+			"amount": 9999999999,
+			"name": "gpe_validator_062",
+			"permissions": {
+				"base": {
+					"perms": 32,
+					"set": 16383
+				},
+				"roles": []
+			}
+		}
+	],
+	"validators": [
+		{
+			"pub_key": [
+				1,
+				"AA80C2E463964D28D4B0A34B1EDE9E9B0123286BBB7A3ED91B1E2B7217119EC2"
+			],
+			"amount": 9999999999,
+			"name": "gpe_full_000",
+			"unbond_to": [
+				{
+					"address": "EF0CD7917D534C280916132D8AF66E80F3782BB9",
+					"amount": 9999999999
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"59882EF1F785CDEF00B3368C8E4F46E3E78BFF972608FA28D043E164154B844F"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_000",
+			"unbond_to": [
+				{
+					"address": "5D1C9FD03B39F6383EDCDABCF4ABAB7481CB9217",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"4AD12FB32A714C8AD0A258EC97865EDE6B118E39B135DED04759995BCA22A96D"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_001",
+			"unbond_to": [
+				{
+					"address": "77475C34066AF5601399FC539C7D4D0ED201F015",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"46D45E8D4C0D59C3AA3879508F6B55A954B73B06DF245E2A0D5B82C371CB6B5D"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_002",
+			"unbond_to": [
+				{
+					"address": "21D72C82D769D2A04D0336F84107CF6F94EC090D",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"585B8614B76B33E56B1B827CBA7C984AA5FB9BA583A8EFC1A98C2BB0002DAD05"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_003",
+			"unbond_to": [
+				{
+					"address": "A96848266BA6A1D47375485E45EFA3E28BA4D2B8",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"917A665A6783F6B3C0C147ACEE03E0B0948A25926AB48F6888B191E693E7F44F"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_004",
+			"unbond_to": [
+				{
+					"address": "E17B7D406E1D70D65C869338804932EC999EF068",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"F51A04115B38A9F77611D8ACD2A11B9426B64159225E4C27B52275D4C6DC0B89"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_005",
+			"unbond_to": [
+				{
+					"address": "5883900F15CDB491287C42A14F1B84459CAB7343",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"418E9015E7B0624325AA5A133B587AE10CDCDE8C2151EC4EF253C0CF77614ADF"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_006",
+			"unbond_to": [
+				{
+					"address": "3E886C6BD6BCD0097A7A2D70C93792AEE6DBA83E",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"123016722BC3520E655CF0A8670493B92B7AF961078DBB4AC2FCB23EFDE3F28F"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_007",
+			"unbond_to": [
+				{
+					"address": "4EF8B905B01934B067BCDF150E9702932C8FF669",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"3DCC6ABECC43AABF60C2957D36CFFEB0358F4910B89430609B54F9C230BECE48"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_008",
+			"unbond_to": [
+				{
+					"address": "9BEB9FEF00AA5D416F51988A9FFE77F2BBA17376",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"0B86809388601A768019B66C79B91C689A3146FD8586DB799538F4C2A5100DB0"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_009",
+			"unbond_to": [
+				{
+					"address": "A7669753A3EA0FA0039BF6D6E6FE0D25B0468B08",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"8224F1E8C7B8419B221E67AD0009912350D847B5AD8208850E4ECF0E2859E174"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_010",
+			"unbond_to": [
+				{
+					"address": "09352F97036A84A7292305520DB384D93C3F66EF",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"7ADF455E681806668845F4E80A14746E225A24D4C9608D6AA14941B0591D7EE9"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_011",
+			"unbond_to": [
+				{
+					"address": "9C0204BA99BB3A3887BB2A42DBDE3BCF8BDB23A5",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"3C32428AE84667DCA5DD4973FF709966BA0CC80061EBA501EFB3F5C96836C84E"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_012",
+			"unbond_to": [
+				{
+					"address": "350F7EA8ADF0D8B00BB1C4515565898EB1519F3E",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"15CE8BA67E4D3163EFFF1533344810076D2D8982704EB748190E7BDE5AC9B852"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_013",
+			"unbond_to": [
+				{
+					"address": "E4C3CAE6B2B98FFAF4C4C16C1410E41E8F5DDE94",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"60E5F07AB8FFE004EC8CA65D17CFB309BC8F32164AA1FBA3A40AC1850C4392F4"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_014",
+			"unbond_to": [
+				{
+					"address": "E27E538C9EEE2AC7A8E4122B118076A642FB67BD",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"276ED45FCF86DBA3C11F40A26173A830B09B8BC3B2E848F0DBE8AE1904E8B644"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_015",
+			"unbond_to": [
+				{
+					"address": "2636C376B66F6562EA08342DDE87A0D6404CFF0F",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"77AD6959F5653B7B07BE93E17C3EA3DB0CD4D2EAAFAC4E7414C5151AD66A0521"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_016",
+			"unbond_to": [
+				{
+					"address": "D13D2BCD972E410E221847AA54886CC90075411C",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"BE971DA82B96913AF7890D9B4A8AF982EA3FC613A02FD9955A05A1EBEDF2CFA8"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_017",
+			"unbond_to": [
+				{
+					"address": "43D9314180528FFD901EF076FEEE73C6C57147F2",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"31F4405E78F13C9F2599A3B21576BB64110217A4F145F4D3705AA7F5E3485D2B"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_018",
+			"unbond_to": [
+				{
+					"address": "6E5F1347D75847134D26A277B446AC6284AC4DB1",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"A131672A5EA776DF1F94F2A1AC7BA4E2A4389D1DAB42BE29043FAE56BF8BAEDC"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_019",
+			"unbond_to": [
+				{
+					"address": "5BE5B5B10CAB23F4AE9529C853D1C52271FD32B3",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"5B4D45DC41AFA76F3361D6978155E3828D7C18415C35FCF4849620E6645A6435"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_020",
+			"unbond_to": [
+				{
+					"address": "76E3693FC954BF67B731F68B0C8A41FF849ED2E3",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"81C97E6E1339EA6C8DED03F1C7C78F4D011E78A8B68DB04CB57C4BF82066F9B0"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_021",
+			"unbond_to": [
+				{
+					"address": "F924D5134B4FB83D0416891380EE186BFBBF6F45",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"F8901D055569DF96DE6FD8EB003CBB41536EB0550E48558285DF70BDD4C464EB"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_022",
+			"unbond_to": [
+				{
+					"address": "2EC4A5801B2ED79B9D17B2DC19752031A10C8D70",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"4731FBCC5B28E574DC80A9D48C4D3AB7F42F1EB0A1B77EEA1226A3B39C914D09"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_023",
+			"unbond_to": [
+				{
+					"address": "A221E9292C640C221EC2E25F0613EA761EF67050",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"A9CB62A4610F28E104D026CB32F295D7D010D316DF7BCF0867A22BD7AFD3BA6E"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_024",
+			"unbond_to": [
+				{
+					"address": "1B3B25E050A082E646A41278B8E2810FB0B0044C",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"099D1954DC94E165544F98312A0E044D4FF2A98D3948B651BECE5CC8E7AD06CC"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_025",
+			"unbond_to": [
+				{
+					"address": "F1E289B9B9F1BF18F053282D319B29B784968709",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"444556DBB36F9EBBDE9B212ACD5E0FFE92BA05D0C3B9B56FE2C27BE0F4584013"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_026",
+			"unbond_to": [
+				{
+					"address": "35895C378F7BE9A4B5F989B7FA9EC9C67F34C1D6",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"5C3C1F464EED4047CB35462516E922CDFE62FDCD7CF5FF2B343F74831F20F00F"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_027",
+			"unbond_to": [
+				{
+					"address": "FA1834C75368D8EF3168ABD979A87389F4E50E34",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"122D10255441E4A334F5A722ACE8D7B33BB55E7F8A81A21744864286CECF5514"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_028",
+			"unbond_to": [
+				{
+					"address": "12DF4545114994F039ADD278A84D028FD9B93E3D",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"A6D0A3BA045123E73D7779A3D47A50C6BF9BBE47D8639860BC9505FBDCCFD02B"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_029",
+			"unbond_to": [
+				{
+					"address": "70A73FA55A85C19C7D892ADC53ABCF7AB8DA26E6",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"4A0DACF7D5B12DA422E70B386B42506B30D21238980568D29E7C339692E07206"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_030",
+			"unbond_to": [
+				{
+					"address": "B3D2E22B6FB621972CF8E59DE5E88A8A4BAFF92B",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"781C54EA2716D5906585674494B6938A35317116DE2D15CE56D2A1B5D47B06FB"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_031",
+			"unbond_to": [
+				{
+					"address": "9DB21EF90D35C0250BD2E04D8BF7F491D0564500",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"C7D7C48B10C8C550534EACF2FA339922F03D88779B99718577ABB62E37CB27EA"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_032",
+			"unbond_to": [
+				{
+					"address": "E809255CB7B082D98AFFB5E3C5652FFD5C447B95",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"DBA7E3E320AC9F9A2423C896CCEC5A517B460BF8F20F095F7ADBEE067F87CF4B"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_033",
+			"unbond_to": [
+				{
+					"address": "2217FDB59412863394C7DC61DF7F0EDE4ADF95FA",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"AF3CDA18B050A4A160610544F063AC5CA10530B0FFFF8BEFF083BAEC6C00B9FD"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_034",
+			"unbond_to": [
+				{
+					"address": "91875B26BE8E7F22D1EC7E41BDF6BEB3777B64A8",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"07104F81ECED04F8A1420C8C262AD9FBA86563E297F19410DF59EF9F7F53DB05"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_035",
+			"unbond_to": [
+				{
+					"address": "A329EB5CD0BF7E9F4EADACD8A12CB0AA065E8523",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"354F4BC34C49A82602197A3C24C473430D33F7F879FA31122AE1FB56F3C64EFC"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_036",
+			"unbond_to": [
+				{
+					"address": "3B77C7BC04B097C6A0C88D56E74A124FC68F68D4",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"526E4BF9B497A3F6B77345270A952A4F7D67234F978272C5D5F0D658AB4CFA87"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_037",
+			"unbond_to": [
+				{
+					"address": "8F823E61DE3D42E6F64856D3A970F008C81A36C6",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"9AFC4617B9B1FC66A64D64890469F1555931833C8C907858EFFD3F0C63BC311B"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_038",
+			"unbond_to": [
+				{
+					"address": "AFDC14A6358E03DC7D7982B8CAD54B2E2A5609BA",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"F5E6DDF3101A751FC4FEB43A87FBBC4C40B6226275CF8B1D2FD04FD81A99C7D4"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_039",
+			"unbond_to": [
+				{
+					"address": "96E2A6C3006D8020A8013238CE549F835C562C1A",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"0C999E9EB4040CE5D8BF5C7951045B16DDC6090DF98F1BFDA2FAD911ABC373C2"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_040",
+			"unbond_to": [
+				{
+					"address": "F921D41332B5A9AA8912434C8E178652824C8F4A",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"CFF7101C43ADA66B85F944E3850C76E039EADF2998D1E40C3C537F2473B90FF6"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_041",
+			"unbond_to": [
+				{
+					"address": "E6FF7CE6E0794A0DFC2AF9862E67B1C2AD1CCB95",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"58B4187F6CF2420B1205EB6E8B68383AAE270B4143A835E797EDA8C4729CDAEB"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_042",
+			"unbond_to": [
+				{
+					"address": "00CCC429498466E488E7D0884CC2C855E36B5BC2",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"30FFE397E47C78212AB9B4E8B03C2FE34DBCED7A375FE6E90034739D04A324BD"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_043",
+			"unbond_to": [
+				{
+					"address": "35BA2C947DD3AE2B48B836F5CA2AF21A5BA5451C",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"404376472607EB2BFE2579A4B8385A5DCF01EB73BAACF20FE268A3844983B2CB"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_044",
+			"unbond_to": [
+				{
+					"address": "33534831872D9F3FD36F359F6D0C2E094E4CA4AC",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"1E375CFC8E4409376361AAD4F9693B9458A4179C1095BB7596446FB3557E7013"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_045",
+			"unbond_to": [
+				{
+					"address": "9E8866569D85400A0EA8C65B14D4D8B2ADFF4AB4",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"C32ADB7B4771B7C4F2DCF725379266C9348BEE456054FAB8B63E6693610A9558"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_046",
+			"unbond_to": [
+				{
+					"address": "426776C5F7AF61BBC879EAB4AA19148EF4BD8AAA",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"34B03732CC11D96404B9E64BC92E782D50B8A2E6DB8A98917C42896154190CB5"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_047",
+			"unbond_to": [
+				{
+					"address": "6E20AF8BB4F5A4DAD41D9460CB70ABE139A5142A",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"72036250EB43C3B92C2EB6310BED387439F3CA2AD39B1E81BFD54DC9781C906A"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_048",
+			"unbond_to": [
+				{
+					"address": "CB7EF1244CCD2EEFAC455DF0FDDEBF9510EE7B1C",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"3A314D1C9E055CD0C872D84327BAD848578DB522F263EC73A443FCED4E5FC264"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_049",
+			"unbond_to": [
+				{
+					"address": "39F84188CECA2EF69F2BBEA8EFC550A78EA1ED44",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"71A44628840DE0CEC2FE91940ABDE50DC7879DE6A1EB4C5988250073326AAD7C"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_050",
+			"unbond_to": [
+				{
+					"address": "FE7565BD89C4B1CD0C98D12569D34F33D95DE8A2",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"33BDB6DDDAEA5D96E571F503322092DA92A71952BB73B9C033BDA12967C58BBE"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_051",
+			"unbond_to": [
+				{
+					"address": "76ACFE435EEC42F604653179CE6437858EAF004B",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"E6BB5C57C492E43C655C9DBACEBB0ED4DF309803444FBCBCFD990979C8C11DB8"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_052",
+			"unbond_to": [
+				{
+					"address": "790D06F6861EC2A262701C967EDCBAF36A5F21BB",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"0EEAF23381CDE3BDFB8C0A8909D1DFF67B7F6330ACDBBEF1FA2C470F899D925B"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_053",
+			"unbond_to": [
+				{
+					"address": "5531148052C6876D41C807305B9B8F903908871D",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"A0D4EC69BA5C632C799520D47B23F17D97AAF7F83902079F2CF9D7D65DDA7F1C"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_054",
+			"unbond_to": [
+				{
+					"address": "75E1F923FF97438AC3CE329EC6F85D15CC271C46",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"E2C406DDF7A939C3C4A0310FB7A884DCED30A35941234E6E6103286AFFD27BA6"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_055",
+			"unbond_to": [
+				{
+					"address": "17088DA9DCCE49992005B7FE6E075633DFE726B9",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"A920DB42DFAF6637E42F597B7294C324560CB2DCC37F30C1DE3D37C9BB2A43EB"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_056",
+			"unbond_to": [
+				{
+					"address": "D5BDD1257B4FF652A6F54385216147939E267F7F",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"10F6BF58C9D58EA8D105FD1E0EE5F44AAA388F496E4F702E4D1217A2411872C6"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_057",
+			"unbond_to": [
+				{
+					"address": "72D710E8CCB34499EC1E0220FACED2DFC26B4A8E",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"C71E406FD97373BEF9858E31006C5DE618AF82EB7B13A550C5626E7A494488FC"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_058",
+			"unbond_to": [
+				{
+					"address": "D54574A0BA487809B1F3B74B7270B245CEC3BD23",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"E105F276D94BC56AD2CFAA6CCB60878B24E7A5C5CA1C6FD3964F64D036B93B97"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_059",
+			"unbond_to": [
+				{
+					"address": "FCAACE480C5FB77C0EC87CC981CD4CF9F94D3E84",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"0080B9C6CE30CECDED2550BB4BC0D660B14E2B3310225735B141C9719308EC1D"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_060",
+			"unbond_to": [
+				{
+					"address": "12E47513CC2318FDD2DF806B0FBF013F1A3E4500",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"24D7A928E0C36897CA5D946CE03C169632BF045AA5713EC13237526183292757"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_061",
+			"unbond_to": [
+				{
+					"address": "EC4C2EC0AB1FCD3F60A9677FA68EC5982D6EFB60",
+					"amount": 9999999998
+				}
+			]
+		},
+		{
+			"pub_key": [
+				1,
+				"3703BE5E1E0257FF48175FFB1AB408CE2A268315933282591117D7E9CA669F42"
+			],
+			"amount": 9999999998,
+			"name": "gpe_validator_062",
+			"unbond_to": [
+				{
+					"address": "66B3F0A52A3F66A54D54CAFC8AFFBD9E5BDC813C",
+					"amount": 9999999998
+				}
+			]
+		}
+	]
+}

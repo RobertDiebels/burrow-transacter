@@ -1,0 +1,23 @@
+{
+  "name": "burrow-transacter",
+  "version": "0.1.0",
+  "description": "Performs X amount of transactions per second towards a Burrow node.",
+  "repository": "https://github.com/RobertDiebels/graduate-project",
+  "main": "./src/main/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/main/lib/index.js"
+  },
+  "author": "Robert Diebels",
+  "license": "ISC",
+  "dependencies": {
+    "@monax/legacy-db": "^0.16.4",
+    "fs-extra": "^5.0.0",
+    "jayson": "^2.0.5",
+    "request": "^2.81.0",
+    "toml": "^2.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.6"
+  }
+}

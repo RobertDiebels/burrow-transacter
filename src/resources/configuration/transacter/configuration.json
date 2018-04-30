@@ -1,0 +1,6 @@
+{
+  "transactionsPerSecond": 100,
+  "amountOfTransactions": 400,
+  "validators": ["kubechain-full-000.burrow-minikube.burrow-minikube.svc.cluster.local","kubechain-validator-000.burrow-minikube.burrow-minikube.svc.cluster.local","kubechain-validator-001.burrow-minikube.burrow-minikube.svc.cluster.local","kubechain-validator-002.burrow-minikube.burrow-minikube.svc.cluster.local"],
+  "payloads": [{"mine": "No really"}]
+}
